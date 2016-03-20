@@ -1,0 +1,12 @@
+## Introduction ##
+
+This is a basic instruction on how to use the timer
+
+### Here we go ###
+
+To start click on extension icon:
+  * In the **Set**  colomn click on the _hour_, _minute_ or _second_ field to set the timer
+  * Click the run icon to start the timer
+  * To Pause the timer click the pause icon
+  * Wait or not for a notification when time's up
+  * If you wish you can reset the timer any time you want by clicking on the reset icon
